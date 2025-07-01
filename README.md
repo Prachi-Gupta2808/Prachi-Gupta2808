@@ -31,12 +31,27 @@
 ### 📫 Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/prachi-gupta2808/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prachi gupta" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.codechef.com/users/blossomm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="blossomm" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/prachi_gupta28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prachi_gupta28" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.leetcode.com/prachiiii__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prachiiii__" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://auth.geeksforgeeks.org/user/blossom_codes_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="blossom_codes_28" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/prachi-gupta2808/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prachi gupta" height="30" width="40" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.codechef.com/users/blossomm" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="blossomm" height="30" width="40" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://codeforces.com/profile/prachi_gupta28" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prachi_gupta28" height="30" width="40" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.leetcode.com/prachiiii__" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prachiiii__" height="30" width="40" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://auth.geeksforgeeks.org/user/blossom_codes_28" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="blossom_codes_28" height="30" width="40" />
+  </a>
 </p>
+
 
 ---
 
