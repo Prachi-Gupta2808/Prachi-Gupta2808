@@ -1,8 +1,23 @@
 ![Banner GIF](https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gif)
 
-<h3 align="center">✨ Crafting beautiful user experiences through code & creativity ✨</h3>
+---
 
-<h3 align="left">Connect with me:</h3>
+## Hey there! 👋 I'm Prachi Gupta
+
+💻 Frontend developer in the making | B.Tech CSE '28 @ IIIT Kota  
+🎨 I love turning ideas into interactive, responsive web experiences  
+🌱 Currently learning React.js, Tailwind CSS, and diving deeper into JavaScript  
+
+🚀 I enjoy building clean UIs, solving DSA problems, and experimenting with side projects  
+🌸 I'm part of vibrant communities like CodessCafe, Techknow Society & IIIT Kernel
+
+📚 A curious reader when not coding — ask me for book recommendations anytime!  
+
+📫 Reach out at: prachigupta2808@gmail.com  
+
+---
+
+### 📫 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/prachi gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prachi gupta" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/blossomm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="blossomm" height="30" width="40" /></a>
@@ -11,7 +26,9 @@
 <a href="https://auth.geeksforgeeks.org/user/blossom_codes_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="blossom_codes_28" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### 🛠️ Languages and Tools:
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
