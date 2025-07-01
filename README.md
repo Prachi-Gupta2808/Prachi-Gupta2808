@@ -2,22 +2,27 @@
 
 ---
 
+
 ## Hey there! 👋 I'm Prachi Gupta
 
-💻 Frontend developer in the making | B.Tech CSE '28 @ IIIT Kota  
-🎨 I love turning ideas into interactive, responsive web experiences  
+💻 Frontend developer in the making | B.Tech CSE '28 @ IIIT Kota 
 🌱 Currently learning React.js, Tailwind CSS, and diving deeper into JavaScript  
-
 🚀 I enjoy building clean UIs, solving DSA problems, and experimenting with side projects  
-🌸 I'm part of vibrant communities like CodessCafe, Techknow Society & IIIT Kernel
-
 📚 A curious reader when not coding — ask me for book recommendations anytime!  
 
-📫 Reach out at: prachigupta2808@gmail.com  
+📫 Reach out at: prachig2808@gmail.com  
+
+</td>
+    <td>
+      <img src="https://i.pinimg.com/736x/2f/8d/9b/2f8d9ba304fd2f47f6b4e2cc258fbb62.jpg" alt="Book and Laptop" width="250" style="border-radius: 12px;" />
+    </td>
+  </tr>
+</table> 
 
 ---
 
 ### 📫 Connect with me:
+
 <p align="left">
 <a href="https://linkedin.com/in/prachi gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prachi gupta" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/blossomm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="blossomm" height="30" width="40" /></a>
@@ -29,6 +34,7 @@
 ---
 
 ### 🛠️ Languages and Tools:
+
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
