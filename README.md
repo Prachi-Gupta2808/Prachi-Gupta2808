@@ -1,11 +1,7 @@
-<!-- Top Banner GIF -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gif" alt="Banner GIF" width="600" />
-</p>
+![Banner GIF](https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gif)
 
 ---
-
-<!-- About Me with side image -->
+<br/>
 <table>
   <tr>
     <td>
@@ -13,9 +9,13 @@
 <h2>Hey there! 👋 I'm Prachi Gupta</h2>
 
 💻 Frontend developer in the making | B.Tech CSE '28 @ IIIT Kota  
+<br/>
 🌱 Currently learning React.js, Tailwind CSS, and diving deeper into JavaScript  
-🚀 I enjoy building clean UIs, solving DSA problems, and experimenting with side projects  
+<br/>
+🚀 I enjoy building clean UIs, solving DSA problems, and experimenting with side projects 
+<br/>
 📚 A curious reader when not coding — ask me for book recommendations anytime!  
+<br/>
 📫 Reach out at: **prachig2808@gmail.com**
 
 </td>
