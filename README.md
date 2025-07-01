@@ -12,11 +12,11 @@
 <br/>
 <p>🌱 Currently learning React.js, Tailwind CSS, and diving deeper into JavaScript</p>
 <br/>
-<p>🚀 I enjoy building clean UIs, solving DSA problems, and experimenting with side projects</p>
+<p>🚀 I enjoy building clean UIs, solving DSA problems, and trying cool projects</p>
 <br/>
 <p>📚 A curious reader when not coding — ask me for book recommendations anytime!</p>
 <br/><br/>
-<p>📫 Reach out at: <strong>prachig2808@gmail.com</strong></p>
+<p align="center">Reach out at: <strong>prachig2808@gmail.com</strong></p>
 
 </td>
 
