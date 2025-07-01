@@ -31,7 +31,7 @@
 ### 📫 Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/prachi-gupta2808/" target="blank">
+  <a href="https://www.linkedin.com/in/prachi-gupta-74122a324/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prachi gupta" height="30" width="40" />
   </a>&nbsp;&nbsp;
 
