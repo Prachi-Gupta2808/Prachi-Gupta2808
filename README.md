@@ -1,29 +1,29 @@
 ![Banner GIF](https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gif)
 
 ---
-<br/>
+
 <table>
   <tr>
     <td>
 
 <h2>Hey there! 👋 I'm Prachi Gupta</h2>
 
-💻 Frontend developer in the making | B.Tech CSE '28 @ IIIT Kota  
+<p>💻 Frontend developer in the making | B.Tech CSE '28 @ IIIT Kota</p>
 <br/>
-🌱 Currently learning React.js, Tailwind CSS, and diving deeper into JavaScript  
+<p>🌱 Currently learning React.js, Tailwind CSS, and diving deeper into JavaScript</p>
 <br/>
-🚀 I enjoy building clean UIs, solving DSA problems, and experimenting with side projects 
+<p>🚀 I enjoy building clean UIs, solving DSA problems, and experimenting with side projects</p>
 <br/>
-📚 A curious reader when not coding — ask me for book recommendations anytime!  
-<br/>
-📫 Reach out at: **prachig2808@gmail.com**
+<p>📚 A curious reader when not coding — ask me for book recommendations anytime!</p>
+<br/><br/>
+<p>📫 Reach out at: <strong>prachig2808@gmail.com</strong></p>
 
 </td>
 
 <td align="center">
   <img src="https://i.pinimg.com/736x/2f/8d/9b/2f8d9ba304fd2f47f6b4e2cc258fbb62.jpg" alt="Coding & Reading" width="250" />
 </td>
-</tr>
+  </tr>
 </table>
 
 ---
@@ -31,10 +31,10 @@
 ### 📫 Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/prachi-gupta2808/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prachi gupta" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/blossomm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="blossomm" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/prachi_gupta28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prachi_gupta28" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prachiiii__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prachiiii__" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prachi-gupta2808/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prachi gupta" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/blossomm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="blossomm" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/prachi_gupta28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prachi_gupta28" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.leetcode.com/prachiiii__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prachiiii__" height="30" width="40" /></a>&nbsp;&nbsp;
 <a href="https://auth.geeksforgeeks.org/user/blossom_codes_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="blossom_codes_28" height="30" width="40" /></a>
 </p>
 
