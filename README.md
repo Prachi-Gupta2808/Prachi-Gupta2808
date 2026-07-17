@@ -6,15 +6,15 @@
   <tr>
     <td>
 
-<h2>Hey there! 👋 I'm Prachi Gupta</h2>
+<h2>Hello people! I'm Prachi</h2>
 
-<p>💻 Frontend developer in the making | B.Tech CSE '28 @ IIIT Kota</p>
+<p> Frontend developer in the making | B.Tech CSE '28 @ IIIT Kota</p>
 <br/>
-<p>🌱 Currently learning React.js, Tailwind CSS, and diving deeper into JavaScript</p>
+<p> Currently learning React.js, Tailwind CSS, and diving deeper into JavaScript</p>
 <br/>
-<p>🚀 I enjoy building clean UIs, solving DSA problems, and trying cool projects</p>
+<p> I enjoy building clean UIs, solving DSA problems, and trying cool projects</p>
 <br/>
-<p>📚 A curious reader when not coding — ask me for book recommendations anytime!</p>
+<p> A curious reader when not coding, ask me for book recommendations anytime!</p>
 <br/><br/>
 <p align="center">Reach out at: <strong>prachig2808@gmail.com</strong></p>
 
@@ -93,7 +93,32 @@
 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
   </a>
+  
 </p>
 
 ![snake gif](https://github.com/Prachi-Gupta2808/Prachi-Gupta2808/blob/output/github-snake-dark.svg)
