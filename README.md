@@ -95,3 +95,5 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
 </p>
+
+![snake gif](https://github.com/Prachi-Gupta2808/Prachi-Gupta2808/blob/output/github-snake-dark.svg)
