@@ -8,9 +8,9 @@
 
 <h2>Hello people! I'm Prachi</h2>
 
-<p> Frontend developer in the making | B.Tech CSE '28 @ IIIT Kota</p>
+<p> Believing in magic and myself</p>
 <br/>
-<p> Currently learning React.js, Tailwind CSS, and diving deeper into JavaScript</p>
+<p> Currently learning Rust , system design , Docker & kubernetes</p>
 <br/>
 <p> I enjoy building clean UIs, solving DSA problems, and trying cool projects</p>
 <br/>
